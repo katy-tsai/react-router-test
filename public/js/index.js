@@ -5,7 +5,9 @@ ReactDOM.render(
   <div>
     <ul>
      <li><a href="active-links">Active Links</a></li>
-    //  <li><a href="animations">Animations</a></li>
+      <li><a href="rwdTable">RWD table</a></li>
+     <li><a href="animations">Animations</a></li>
+     <li><a href="materialBtn">material btton</a></li>
     //  <li><a href="auth-flow">Auth Flow</a></li>
     //  <li><a href="auth-with-shared-root">Auth With Shared Root</a></li>
     //  <li><a href="breadcrumbs">Breadcrumbs</a></li>

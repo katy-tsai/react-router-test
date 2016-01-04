@@ -2,7 +2,8 @@ var path = require('path');
 module.exports = {
   entry:{
     index:'./public/js/index',
-    active_links:'./public/js/active_links'
+    active_links:'./public/js/active_links',
+    Animations:'./public/js/Animations'
   },
   output:{
     path:path.join(__dirname,'public/build'),
